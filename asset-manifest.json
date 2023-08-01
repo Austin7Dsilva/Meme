@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meme/static/css/main.f8177774.css",
+    "main.js": "/Meme/static/js/main.5533f19e.js",
+    "static/js/787.378c66e6.chunk.js": "/Meme/static/js/787.378c66e6.chunk.js",
+    "static/media/troll-face.png": "/Meme/static/media/troll-face.ff6c7eca7940f6213496.png",
+    "index.html": "/Meme/index.html",
+    "main.f8177774.css.map": "/Meme/static/css/main.f8177774.css.map",
+    "main.5533f19e.js.map": "/Meme/static/js/main.5533f19e.js.map",
+    "787.378c66e6.chunk.js.map": "/Meme/static/js/787.378c66e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8177774.css",
+    "static/js/main.5533f19e.js"
+  ]
+}
